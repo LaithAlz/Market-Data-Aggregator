@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+*.env
+
+# Alembic
+# (keep alembic.ini but ignore local overrides)
+
+# DB / Redis data
+*.sqlite
+*.db
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# PDF output
+*.pdf
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
