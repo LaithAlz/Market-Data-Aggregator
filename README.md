@@ -1,4 +1,4 @@
-y# Market Feed
+## Market Feed
 
 A real-time stock price aggregator that ingests live data via WebSocket, stores it in TimescaleDB, serves it via REST API, and renders a terminal dashboard.
 
